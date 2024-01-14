@@ -1,0 +1,1 @@
+# karmada-metrics-adapter
